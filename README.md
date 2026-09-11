@@ -2,7 +2,7 @@
 
 [English](./README.md) | [简体中文](./README_zh.md)
 
-The legrand integration is an officially supported Home Assistant integration provided by legrand. It allows you to use legrand's smart home devices within Home Assistant.
+Home Assistant integration for Legrand smart home devices. It allows you to use legrand's smart home devices within Home Assistant.
 
 ## Installation
 

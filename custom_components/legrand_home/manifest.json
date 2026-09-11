@@ -4,7 +4,7 @@
   "codeowners": ["@legrand-link"],
   "config_flow": true,
   "dependencies": ["http", "mqtt"],
-  "documentation": "https://github.com/legrand-link/ha_legrand_home/blob/v1.0.0/README_zh.md",
+  "documentation": "https://github.com/legrand-link/ha_legrand_home/blob/main/README.md",
   "integration_type": "hub",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/legrand-link/ha_legrand_home/issues",
