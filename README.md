@@ -35,10 +35,6 @@ After logging in successfully, a list of all host families under the user's acco
 
 | Name                                                         | Function                                                     |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| Zero-fire single switch                                      | switch                                                       |
-| Zero-fire double switch                                      | switch                                                       |
-| Zero-fire triple switch                                      | switch                                                       |
-| Zero-fire four switch                                        | switch                                                       |
 | Smart light strip controller                                 | switch、brightness、color temperature、color                 |
 | Smart color temperature light controller                     | switch、brightness、color temperature                        |
 | Smart dimming controller                                     | switch、brightness                                           |
@@ -49,30 +45,16 @@ After logging in successfully, a list of all host families under the user's acco
 | AI super sensor                                              | working mode、 lighting、 body movement characteristics、 whether there are people or not |
 | Dual-detection sensor                                        | working mode、 lighting、 body movement characteristics、 whether there are people or not |
 | Temperature and humidity sensor                              | battery power、 temperature and humidity status              |
-| Four-in-one air box（PM2.5）                                 | light、 temperature、 humidity、pm2.5                        |
-| Four-in-one air sensor（PM2.5）                              | light、 temperature、 humidity、pm2.5                        |
-| Four-in-one air sensor（formaldehyde）                       | light、 temperature、 humidity、formaldehyde                 |
-| Four-in-one air sensor（CO2）                                | light、 temperature、 humidity、co2                          |
-| Five-in-one air sensor（CO2）                                | light、 temperature、 humidity、co2、TVOC                    |
-| Seven-in-one air box                                         | light、 temperature、 humidity、co2、pm2.5、noise、formaldehyde |
-| Seven-in-one air box（TVOC）                                 | light、 temperature、 humidity、co2、pm2.5、noise、TVOC      |
-| Seven-in-one air sensor                                      | light、 temperature、 humidity、co2、pm2.5、noise、formaldehyde |
 | Seven-in-one air sensor（TVOC）                              | light、 temperature、 humidity、co2、pm2.5、noise、TVOC      |
-| Eight-in-one air box                                         | light、 temperature、 humidity、co2、pm2.5、noise、formaldehyde、TVOC |
 | Eight-in-one air sensor                                      | light、 temperature、 humidity、co2、pm2.5、noise、formaldehyde、TVOC |
-| Single-channel motor panel                                   | on、off、pause                                               |
-| Dual-channel motor panel                                     | on、off、pause                                               |
 | Smart curtain motor                                          | on、off、pause、opening and closing degree                   |
 | Smart roller blind motor                                     | on、off、pause、opening and closing degree                   |
 | Lithium battery smart curtain motor                          | on、off、pause、opening and closing degree                   |
-| Smart sliding window opener                                  | on、off、pause、opening and closing degree                   |
 | Smart push-pull window opener                                | on、off、pause、opening and closing degree                   |
 | Dooya tubular motor control box                              | on、off、pause、opening and closing degree                   |
 | Dream curtain motor                                          | on、off、pause、opening and closing degree、rotation angle   |
-| Six-in-one air sensor                                        | light、 temperature、 humidity、co2、pm2.5、noise            |
 | Water leak detector                                          | Battery Level 、Alarm Status                                 |
 | Smoke detector                                               | Battery Level 、Alarm Status                                 |
-| Combustible gas detector                                     | Battery Level 、Alarm Status                                 |
 | Emergency button                                             | Battery Level 、Alarm Status                                 |
 | 3-in-1 Smart Thermostat Control Series                       | Air conditioning (on, off, mode, temperature, wind speed), strong current fresh air (on, off, wind speed), water floor heating (on, off, temperature) |
 | 3-in-1 Premium Smart Thermostat Series                       | Air conditioning (on, off, mode, temperature, wind speed), strong current fresh air (on, off, wind speed), water floor heating (on, off, temperature) |
@@ -84,8 +66,6 @@ After logging in successfully, a list of all host families under the user's acco
 | Water heating thermostat E                                   | on, off, temperature                                         |
 | Water floor heating thermostat                               | on、 off、 temperature                                       |
 | Water floor heating thermostat (3H1)                         | on、 off、temperature                                        |
-| Intelligent socket                                           | on、off                                                      |
-| Infrared smart socket                                        | on、 off、Codebase air conditioning                          |
 | Codebase air conditioning                                    | on、off、mode、 temperature、wind speed                      |
 | Scene                                                        | Synchronize the scenarios set by the legrand APP                |
 | Three-in-one temperature controller C                        | Air conditioner (on, off, mode, temperature, wind speed), brand fresh air system (on, off, wind speed), electric floor heating (on, off, temperature) |
@@ -94,22 +74,11 @@ After logging in successfully, a list of all host families under the user's acco
 | Floor heating panel                                          | Water floor heating (on/off, temperature), Electric floor heating (on/off, temperature) |
 | Composite panel                                              | Switch, curtain motor (on, off, pause)                       |
 | Intelligent magnetic color temperature lamp                  | switch、brightness、color temperature                        |
-| DALI dimming lamp                                            | switch、brightness                                           |
-| DALI color temperature lamp                                  | switch、brightness、color temperature                        |
 | Hvac control module                                          | Brand air conditioners (on, off, mode, temperature, wind speed), brand fresh air systems (on, off, wind speed), brand floor heating (on, off, temperature) |
 | Smart voice Speaker X10                                      | Voice control of devices in HA (plug-in supported, ready for use after platform upgrade) |
 | Fan coil unit temperature controller (3H1)                   | on、off、mode、 temperature、wind speed                      |
-| Intelligent color-changing light                             | switch、brightness、color temperature、color                 |
-| Intelligent dimming spotlight                                | switch、brightness                                           |
 | Central Air Conditioning Smart Gateway PRO                   | on、off、mode、 temperature、wind speed                      |
-| Switch Intelligent Controller Type Ⅰ                         | switch                                                       |
-| Switch Intelligent Controller Type Ⅱ                         | switch                                                       |
-| Switch Intelligent Controller Type Ⅲ                         | switch                                                       |
-| Single-circuit switch (single fire) E series                 | switch                                                       |
-| Dual-circuit switch (single fire) E series                   | switch                                                       |
-| Three-way switch (single fire) E series                      | switch                                                       |
 | Fan Coil (dual supply)                                       | switch、mode、 temperature、wind speed                       |
-| Smart Water Floor Heating Thermostat                         | switch、 temperature                                         |
 | AI human sensor                                              | light、Working Mode、Alarm Status、 Whether there are people or not |
 | AI Super Sensor Pro                                          | light、Working Mode、Alarm Status、 Whether there are people or not、Detection distance |
 | AI smart screen-switch                                       | switch                                                       |
@@ -125,8 +94,6 @@ After logging in successfully, a list of all host families under the user's acco
 | Hvac general module - switch                                 | switch                                                       |
 | Hvac general module - Garage door                            | switch                                                       |
 | Infrared human detector                                      | Battery Level、Working Mode、Alarm Status、 Whether there are people or not |
-| Infrared curtain detector                                    | Battery Level、Working Mode、Alarm Status、 Whether there are people or not |
-| Wired infrared curtain detector                              | Working Mode、Alarm Status、 Whether there are people or not |
 | Infrared curtain sensor                                      | Battery Level、Working Mode、Alarm Status、 Whether there are people or not |
 
 ## FAQ
